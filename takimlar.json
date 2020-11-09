@@ -1,7 +1,7 @@
 [
   {
     "isim": "ATAKAŞ HATAYSPOR",
-    "oyuncu1": "ALEX = 10",
+    "oyuncu1": "ALEX=10 PUAN",
     "oyuncu2": "LEFTER=5PUAN",
     "oyuncu3": "EMRE = 5PUAN",
     "oyuncu4": "SEMİH = 5 PUAN",
@@ -526,4 +526,3 @@
   }
   
 ]
-
