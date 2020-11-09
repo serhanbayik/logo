@@ -1,0 +1,26 @@
+[
+  {
+    "isim": "Fenerbaçe",
+    "oyuncu1": "ALEX=10 PUAN",
+    "oyuncu2": "LEFTER=5PUAN",
+    "oyuncu3": "EMRE = 5PUAN",
+    "oyuncu4": "SEMİH = 5 PUAN",
+    "gorsel": "https://github.com/serhanbayik/logo/blob/main/fenerbahce1.png?raw=true"
+  },
+  {
+    "isim": "Beşiktaş",
+    "oyuncu1": "A=10 PUAN",
+    "oyuncu2": "B = 10 PUAN",
+    "oyuncu3": "Protein: 11.3 gram",
+    "oyuncu4": "Yag: 5.8 gram",
+    "gorsel": "https://github.com/serhanbayik/logo/blob/main/besiktas1.png?raw=true"
+  },
+  {
+    "isim": "Galatasaray",
+    "oyuncu1": "654 Kilokalori",
+    "oyuncu2": "Karbonhidrat: 13.7 gram",
+    "oyuncu3": "Protein: 15.2 gram",
+    "oyuncu4": "Yag: 65.2 gram",
+    "gorsel": "https://github.com/serhanbayik/logo/blob/main/galatasaray1.png?raw=true"
+  }
+]
